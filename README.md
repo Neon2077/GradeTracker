@@ -2,6 +2,7 @@ ScoreTracker
 ============
 
 A simple desktop application for teachers to record and manage student grades based on different aspects.
+
 Download link: https://drive.google.com/file/d/1HmxJnPiqeX_s9lSG5bK1kTUcLQq-1OWf/view?usp=sharing
 
 Features
