@@ -41,6 +41,7 @@ Support
 This app is designed by a self-learning engineering student. If you have problems, contact: lyneow777@gmail.com.
 [google9c84049aa65d57fd.html](https://github.com/user-attachments/files/22376201/google9c84049aa65d57fd.html)
 google-site-verification: google9c84049aa65d57fd.html
+
 Version
 -------
 1.0 – September 2025
