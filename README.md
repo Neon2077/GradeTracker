@@ -1,7 +1,8 @@
 <img width="1280" height="1024" alt="FullLogo" src="https://github.com/user-attachments/assets/48638fed-7482-48b8-acb8-e13a072a6f2e" />
+--------
 also known as **ScoreTracker**
 
-============
+--------
 
 A simple desktop application for teachers to record and manage student grades based on different aspects.
 
