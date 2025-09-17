@@ -48,7 +48,7 @@ class App:
             self.window=tk.Tk()
             self.screen_w = self.window.winfo_screenwidth()      #get screensize, cross platform gui
             self.screen_h = self.window.winfo_screenheight()
-            self.window.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-400}")
+            self.window.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-440}")
             self.window.title("Student grade manager")
             self.window.configure(background="#ffffff")
             canvas = tk.Canvas(self.window,width=700,height=800,highlightthickness=0,bg="#ffffff")
@@ -211,7 +211,7 @@ class App:
             pass
         self.windowInput=tk.Toplevel(self.window,bg="#f0f0f0")
         self.windowInput.title("Student grade manager")
-        self.windowInput.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-400}")
+        self.windowInput.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-440}")
         self.label=tk.Label(self.windowInput,text="Student Name:", font=("Comic Sans Ms",22,"bold"), fg="blue",bg="#f0f0f0")
         self.label.place(x=50,y=110)
         self.entryname=tk.Entry(self.windowInput,width=35,font=("Times New Roman",19))
@@ -387,7 +387,7 @@ class App:
         
         columns=["Semester"]+["Name"]+["subject"]+["marks"]              #let treeview split column
         self.windowView=tk.Toplevel(self.window,bg="white")
-        self.windowView.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-400}")
+        self.windowView.geometry(f"700x800+{int(self.screen_w/2)-350}+{int(self.screen_h/2)-440}")
         url6="https://ik.imagekit.io/meis8v81a/vecteezy_a-green-empty-button_54655112.png?updatedAt=1757759366415"        #button
         # responsebutton2=requests.get(url4)
         # img_databutton2= responsebutton2.content
