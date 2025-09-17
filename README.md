@@ -1,4 +1,4 @@
-<img width="1280" height="1024" alt="FullLogo" src="https://github.com/user-attachments/assets/48638fed-7482-48b8-acb8-e13a072a6f2e" />
+<img width="900" height="720" alt="FullLogo" src="https://github.com/user-attachments/assets/48638fed-7482-48b8-acb8-e13a072a6f2e" />
 
 
 also known as **ScoreTracker**
@@ -38,8 +38,9 @@ How to Use
 
 Support
 -------
-This app is designed by a self learning engineering student. If you have problems, contact: lyneow777@gmail.com.
-
+This app is designed by a self-learning engineering student. If you have problems, contact: lyneow777@gmail.com.
+[google9c84049aa65d57fd.html](https://github.com/user-attachments/files/22376201/google9c84049aa65d57fd.html)
+google-site-verification: google9c84049aa65d57fd.html
 Version
 -------
 1.0 – September 2025
